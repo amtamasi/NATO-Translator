@@ -22,7 +22,7 @@ def toNATO(string_in, nato):
     Convert lowercase string to its NATO phonetic alphabet equivalent. If it is not a regular letter (e.g. punctuation), don't change it to anything.
     Parameters:
         string_in (str): String to be changed to NATO alphabet. Assumed to be in all lowercase characters.
-        nato (dict): Maps each alphabetic letter
+        nato (dict): Maps each alphabetic letter (lowercase) to its NATO phonetic alphabet equivalent.
     Returns:
         string_out (str): Converted string, in NATO alphabet form.
     Variables:
