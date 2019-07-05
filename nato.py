@@ -75,7 +75,7 @@ def main():
     
     
     input_str_processed = processString(input_str)
-    output_str = toNATO(input_str, nato)
+    output_str = toNATO(input_str_processed, nato)
     print(output_str)
             
             
