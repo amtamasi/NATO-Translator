@@ -45,7 +45,7 @@ def main():
     input_str = input('Enter a string: ')
     print()
 
-    nato = {'a': 'Alfa',
+    nato = {'a': 'Alpha',
             'b': 'Bravo',
             'c': 'Charlie',
             'd': 'Delta',
